@@ -78,6 +78,4 @@ npm run preview
 - Authentication token handling is implemented in `src/apis/config.js` using `localStorage` and Axios interceptors.
 - Cart state is managed in Redux and does not persist across page refreshes by default.
 
-## License
 
-This repository is provided as-is for learning and demonstration purposes.
